@@ -5,3 +5,26 @@ As described in the [git-basics chapter](https://info201.github.io/git-basics.ht
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+<table>
+<tr>
+	<th>Course</th>
+	<td>Title</td>
+	<td>Instructor</td>
+</tr>
+<tr>
+	<th>Info201</th>
+	<td>Building technical foundations.</td>
+	<td>Mr. Friendo</td>
+</tr>
+<tr>
+        <th>Math3011</th>
+        <td>Elementary number theory</td>
+        <td>Andrea Heald</td>
+</tr>
+<tr>
+        <th>AMath301</th>
+        <td>Beginning scientific computing.</td>
+        <td>Jake Price</td>
+</tr>
+</table>
